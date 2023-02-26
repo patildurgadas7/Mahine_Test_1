@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mytext" type="id" />
+
+    <item name="mybutton" type="id" />
+    <item name="edtUsername" type="id" />
+    <item name="txt" type="id" />
+    <item name="editText" type="id" />
+    <item name="OpenDialog" type="id" />
+    <item name="Text1" type="id" />
+    <item name="Text2" type="id" />
+    <item name="Radio1" type="id" />
+    <item name="Radio2" type="id" />
+    <item name="check" type="id" />
+    <item name="btn1" type="id" />
+</resources>
